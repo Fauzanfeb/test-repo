@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+from listNama import nama
+
+st.write(nama)
+
 
 st.title('Hello, Dirham rev! 👋')
 st.title('This is my first streamlit app')
