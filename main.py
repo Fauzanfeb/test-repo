@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title('Hello, Dirham! 👋')
+st.title('Hello, FAUZAN! 👋')
 st.title('This is my first streamlit app')
 uploaded_file = st.file_uploader("Choose a file", type="csv")
 
